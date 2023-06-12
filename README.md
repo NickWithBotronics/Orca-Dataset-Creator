@@ -12,4 +12,4 @@ requirements
 Open AI
 Python 3.8
 
-Future itterations will be done in this web UI: https://github.com/NickWithBotronics/Dataset-Foundry-WebUI
+This repo is depricated Future itterations will be done in this web UI: https://github.com/NickWithBotronics/Dataset-Foundry-WebUI
