@@ -11,3 +11,5 @@ Run with command: python script.py alpaca_52k.jsonl(you can change the name to w
 requirements
 Open AI
 Python 3.8
+
+Future itterations will be done in this web UI: https://github.com/NickWithBotronics/Dataset-Foundry-WebUI
